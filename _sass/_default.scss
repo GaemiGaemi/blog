@@ -1,0 +1,27 @@
+
+// STYLE
+
+.wrap {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width:100%;
+    background-color: grey;
+}
+
+
+.header {
+    display: block;
+    background-color: antiquewhite;
+    width:100%;
+    height:100px;
+}
+
+
+.content{
+    display: block;
+    width:100%;
+    height:1000px;
+    background-color: aquamarine;
+}
